@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.linkser.decompier.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.linkser.decompier.MyBundle
 
 class MyApplicationService {
 
